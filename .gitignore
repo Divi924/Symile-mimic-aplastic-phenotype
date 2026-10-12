@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Clinical/research data: do not commit patient-level data
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.rds
+*.RData
+
+# Generated outputs and figures
+outputs/
+*_results/
+figures/
+*.png
+*.pdf
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

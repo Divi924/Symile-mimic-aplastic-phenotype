@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the versioned Zenodo record and the associated research article, if available."
+title: "Symile-MIMIC Aplastic-like Phenotype Clustering Pipeline"
+type: software
+version: 1.0.0
+date-released: "2026-10-12"
+authors:
+  - family-names: "REPLACE_WITH_FAMILY_NAME"
+    given-names: "REPLACE_WITH_GIVEN_NAME"
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
+# After Zenodo archives a release, add the version-specific DOI, for example:
+# doi: "10.xxxx/zenodo.xxxxxxx"

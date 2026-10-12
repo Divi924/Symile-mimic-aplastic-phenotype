@@ -1,0 +1,11 @@
+PRE-PUBLICATION CHECKLIST
+
+[ ] Replace author placeholders in CITATION.cff.
+[ ] Replace the copyright-holder placeholder in LICENSE, or choose another licence.
+[ ] Confirm code ownership and obtain co-author/institutional approval if applicable.
+[ ] Review the hard-coded ICD code list and data column assumptions.
+[ ] Run the script in the intended environment and inspect all outputs.
+[ ] Confirm no patient-level data, secrets, credentials, or restricted files are staged.
+[ ] Update the GitHub URL in CITATION.cff after creating the repository.
+[ ] Create a GitHub release (for example v1.0.0), then confirm Zenodo archived it and issued a DOI.
+[ ] Add the version-specific DOI to the paper and repository metadata.
